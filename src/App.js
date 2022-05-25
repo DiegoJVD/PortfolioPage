@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import Header from './Components/Header.jsx';
 import Home from './Components/Home.jsx';
+import AboutMe from './Components/AboutMe';
 import './App.css';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Header/>
       <Home/>
+      <AboutMe/>
     </div>
   );
 }
