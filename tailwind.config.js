@@ -5,9 +5,12 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        "primary": "#191919",
-        "secundary": "#282828",
-        "tertiary": "#404040"
+        "primary": "#111111",
+        "secundary": "#181818",
+        "tertiary": "#1E1E1E",
+        "quaternary": "#202020",
+        "costum-red": "#e93c3c",
+        "light-costum-red": "#e93c3c",
       }
     },
     fontFamily: {
